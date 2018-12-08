@@ -1,4 +1,4 @@
 module.exports= {
   mongoURI:
-  'mongodb://SeanSwanSavesouls7777777.mlab.com:27664/mean-social'
+  'mongodb://MEANAPP1:MEANAPP1@ds227664.mlab.com:27664/mean-social'
 }
